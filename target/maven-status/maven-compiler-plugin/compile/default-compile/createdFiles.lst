@@ -1,0 +1,9 @@
+model\PaymentMethod.class
+model\Product.class
+view\Main.class
+model\DataBase.class
+model\SaleItem.class
+model\CreditCard.class
+model\DebitCard.class
+model\Cash.class
+model\Sale.class
